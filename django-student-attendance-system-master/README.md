@@ -2,7 +2,7 @@
 
 This is a Student Attendance System Developed for Educational Purpose using Python (Django).
 
-And if you like this project then ADD a STAR ⭐️ to this project 👆
+
 
 ## Features of this Project
 
@@ -34,9 +34,7 @@ And if you like this project then ADD a STAR ⭐️ to this project 👆
 4. Apply for Leave
 5. Send Feedback to HOD
 
-## Support Developer
 
-1. Add a Star 🌟 to this 👆 Repository
 
 ## How to Install and Run this project?
 
@@ -160,16 +158,4 @@ _For Student_
 Email: student@gmail.com
 Password: student
 
-## Copyrights
 
-Coded by @ritikBanger, @mohitTaimni, and @ronitKhowal
-
-Developed for Poornima Group, Jaipur
-
-Copyright 2022 @ritikbanger
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
